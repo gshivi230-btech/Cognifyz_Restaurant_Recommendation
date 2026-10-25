@@ -24,3 +24,10 @@ desktop.ini
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Large video and media recordings
+*.mp4
+*.mov
+*.avi
+*.mkv
+
