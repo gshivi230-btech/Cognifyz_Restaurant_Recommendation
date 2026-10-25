@@ -1,0 +1,11 @@
+restaurant_name,cuisines,aggregate_rating,average_cost_for_two,city,cuisine_similarity
+Fusilli Reasons,Italian,4.6,350,Chennai,1.0
+Baduzzi,Italian,4.6,120,Auckland,1.0
+Cafe Parmesan,Italian,4.5,1000,Faridabad,1.0
+Ombra,Italian,4.5,70,Wellington City,1.0
+La Favorita,Italian,4.5,30,Edinburgh,1.0
+Bocca Di Lupo,Italian,4.5,45,London,1.0
+Paper Moon,Italian,4.5,400,Doha,1.0
+Terra�_o It��lia,Italian,4.4,400,S��o Paulo,1.0
+Maggiano's Little Italy,Italian,4.4,50,Orlando,1.0
+Flying Spaghetti Monster,Italian,4.4,1400,Vizag,1.0
