@@ -1,13 +1,20 @@
 # 🍽️ Cognifyz Restaurant Recommendation System
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cognifyz-restaurant-recommender.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen.svg?logo=streamlit&logoColor=white)](https://cognifyz-restaurant-recommender.streamlit.app/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=gshivi230-btech/Cognifyz_Restaurant_Recommendation&branch=main&mainModule=app.py)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Cognifyz Technologies Data Science Internship — Task 2: Restaurant Recommendation System**  
 > An intelligent content-based recommendation engine built with Python, TF-IDF vectorization, cosine similarity, and an interactive Streamlit web dashboard.
+
+---
+
+## 🌐 Live Demo
+
+The application is deployed and live on **Streamlit Community Cloud**:  
+👉 **[Open Live App: cognifyz-restaurant-recommender.streamlit.app](https://cognifyz-restaurant-recommender.streamlit.app/)**
 
 ---
 
@@ -99,17 +106,14 @@ The app will open automatically in your browser at `http://localhost:8501`.
 
 ## ☁️ Deployment on Streamlit Community Cloud
 
-Deploying this app online for free takes less than 2 minutes:
+The application is deployed on **Streamlit Community Cloud**:
 
-1. Go to [share.streamlit.io](https://share.streamlit.io/) and log in with your GitHub account (`gshivi230-btech`).
-2. Click **"Create app"** or **"New app"**.
-3. Select **"Use existing repo"**.
-4. Configure the deployment settings:
-   - **Repository**: `gshivi230-btech/Cognifyz_Restaurant_Recommendation`
-   - **Branch**: `main`
-   - **Main file path**: `app.py`
-5. Click **"Deploy!"**.
-6. Streamlit Cloud will automatically install dependencies from `requirements.txt` and launch your live application!
+- 🌐 **Live Web App**: [https://cognifyz-restaurant-recommender.streamlit.app/](https://cognifyz-restaurant-recommender.streamlit.app/)
+- **Repository**: `gshivi230-btech/Cognifyz_Restaurant_Recommendation`
+- **Branch**: `main`
+- **Main file path**: `app.py`
+
+Any changes committed and pushed to the `main` branch will automatically trigger a re-deployment on Streamlit Community Cloud.
 
 ---
 
